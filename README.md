@@ -29,7 +29,8 @@ This repository contains instructions and code for analyzing images of alluvial 
   - `AnalyzeResults_CTX_masked_only.ipynb`: analysis of the deep learning reesults from training on masked CTX images.
   - `AnalyzeResults_CTX_only.ipynb`: analysis of the deep learning reesults from training on unmasked CTX images.
   - `Download_Results.ipynb`: downloads the results of the deep learning training and application.
-  - `KMeansCluster_Baseline.ipynb`: K means clustering analysis for comparison to the deep learning analysis.
+  - `KMeansCluster_Baseline.ipynb`: K means clustering analysis for comparison to the deep learning analysis (may be empty, see Veronica's fork of this repository if so).
+  - `Train_Saha_CTX.ipynb`: This is a sample of how to train the Saha et al. (2022) algorithm on our data.
 
 - `notebooks_Research/`: contains jupyter notebooks related to ongoing development of the project.
 
